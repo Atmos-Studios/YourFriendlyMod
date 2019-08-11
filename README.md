@@ -17,5 +17,4 @@ This Bot is in Beta, it does not work without issues. When issues are resolved i
 </a>
 <br>
 </div>
-
 <div align="center">

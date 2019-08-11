@@ -1,7 +1,7 @@
 # YourFriendlyMod
 Current Project of Pixelated Development
 
-# Info
+# Bot Info
 <div align="center">
 <a href="https://discord.gg/mDJmQaA">
 <img src="https://img.shields.io/discord/596103001895338052.svg?colorB=Blue&logo=discord&label=Support&style=for-the-badge" alt="Support">

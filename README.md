@@ -2,10 +2,6 @@
 Current Project of Pixelated Development
 
 # Bot Info
-<div align="center">
-<a href="https://discord.gg/mDJmQaA">
-<img src="https://img.shields.io/discord/596103001895338052.svg?colorB=Blue&logo=discord&label=Support&style=for-the-badge" alt="Support">
-</a>
 <a href="https://github.com/YourDeadPixels/YourFriendlyMod">
 <img src="https://img.shields.io/github/languages/top/YourDeadPixels/YourFriendlyMod.svg?style=for-the-badge">
 </a>

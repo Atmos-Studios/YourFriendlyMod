@@ -1,5 +1,5 @@
 # YourFriendlyMod
-Current Project of Pixelated Development
+DISCONTINUED
 
 # Bot Info
 <div align="center">
